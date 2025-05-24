@@ -13,7 +13,7 @@
 - **ML/DL**: PyTorch, Hugging Face, scikit-learn
 
 ### 📈 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubID&show_icons=true&theme=default)
+![jyhyt1567's stat](https://github-readme-stats.vercel.app/api?username=jyhyt1567&show_icons=true&theme=default)
 
 ### 📫 How to reach me
 - Email: jyhyt1567@gmail.com  
